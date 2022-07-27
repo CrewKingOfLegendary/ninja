@@ -1,1 +1,1 @@
-server1:0.tcp.ap.ngrok.io:17288:0:0
+server1:0.tcp.ap.ngrok.io:12993:0:0
